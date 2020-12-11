@@ -1,0 +1,11 @@
+{
+  "name": "number-guesser-game",
+  "version": "1.0.0",
+  "description": "a number guesser game made in javascript vanilla",
+  "main": "game.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Enrique Gimenez fenriquegimenez@gmail.com",
+  "license": "MIT"
+}
